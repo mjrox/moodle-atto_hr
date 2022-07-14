@@ -1,7 +1,7 @@
 {
     "name": "conted-atto/hr",
     "description": "Horizontal Rule for Atto",
-    "type": "conted-atto",
+    "type": "moodle-atto",
     "require": {
         "composer/installers": "^2.1"
     },
